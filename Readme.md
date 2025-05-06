@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Masoud</h1>
 <h3 align="center">Senior Front-End Developer | React & Next.js Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eng-MustafaMasoud&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-MustafaMasoud" />
-</p>
+
 
 ---
 
